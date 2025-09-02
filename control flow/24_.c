@@ -16,7 +16,7 @@ char c;
 
     if(c == '*'){
         printf("= %f",a*b);
-    }
+    } 
 
     if(c == '/'){
         printf("= %f",a/b);
