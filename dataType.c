@@ -14,5 +14,5 @@ int main()
     printf("given integer value is: %d/n", in);
     printf("given character is: %c/n",b);
     printf("given floating point number is: %f/n", );
-    return 0;
+    return 0; 
 }
